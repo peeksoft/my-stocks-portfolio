@@ -2,7 +2,7 @@
 
 This project tracks issues and feature requests for the My Stocks Portfolio app by Peeksoft
 
-This repo has been migrated to https://github.com/mystocksportfolio
+This repo has been migrated to https://github.com/mystocksportfolio/issues
 
 # Download Links for the app
 
