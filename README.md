@@ -2,9 +2,9 @@
 
 This project tracks issues and feature requests for the My Stocks Portfolio app by Peeksoft
 
-To view existing issues or to open a new one, click on the 'Issues' tab
+This repo has been migrated to https://github.com/mystocksportfolio/issues
 
-# Download Links
+# Download Links for the app
 
 [Android](https://play.google.com/store/apps/details?id=co.peeksoft.stocks)
 
